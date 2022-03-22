@@ -1,0 +1,43 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    background-color: whitesmoke;
+}
+
+h1 + p {
+    background-color: blanchedalmond;
+}
+
+h2 {
+    background-color: aquamarine;
+}
+
+h2 + p {
+    background-color: aqua;
+}
+
+ol {
+    background-color: greenyellow;
+}
+
+.one {
+    color: blue;
+}
+
+.two {
+    color:blueviolet;
+}
+
+.thrie {
+    color:darkgreen;
+}
+
+.four {
+    color:maroon;
+}
+
+.five {
+    color:midnightblue;
+}
